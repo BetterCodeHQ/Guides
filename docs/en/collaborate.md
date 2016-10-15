@@ -1,17 +1,19 @@
-# Como colaborar en una idea: Empieza a escribir código y a aportar ideas a la comunidad
 
-Una vez que te hayas [anotado para trabajar en una idea](#) solo tienes que empezar a colaborar en esta. Todos los repositorios de todas las ideas están en [nuestra organización de Better Code](https://github.com/BetterCodeHQ) de la que tu también eres parte por [haberte registrado](#). En el caso de que no te conste, revisa tu email, **debes de tener una invitación a la organización `BetterCodeHQ`**.
+# How to collaborate on an idea: Start typing code and to contribute ideas to the community
 
-Busca ahí el repositorio de la idea a la que te has anotado, **tiene que llamarse igual que en Better Code pero sin la descripción**, es decir, el nombre antes de los dos puntos en la [vista de detalle del projecto](). También puedes revisar tu email ya que tienes que tener **la confirmación del acceso al repositorio**
+Once you have you [annotated to work on an idea] (#) you just have to start working on this. All repositories of all ideas are in [our organization Better Code] (https://github.com/BetterCodeHQ) from which you are also part by [have registered] (#). In case you do not record, check your email, **you must have an invitation to the organization `BetterCodeHQ`**.
 
-## ¿Qué hago una vez que ya estoy en el repositorio?
+Looking around the repository idea which you have written down, **must be called as in Better Code but without description**, ie, the name before the colon in the [detailed view of the project] (). You can also check your email as you have to have confirmation **repository access**
 
-Cada idea tiene una organización diferente aunque GitHub tiene unas bases que es las que te voy a comentar, **la mayoría de proyectos se basan en estas directrices**
+## What do I do once I am already in the repository?
 
-* Nosotros le hemos recomendado a los creadores de ideas que dejaran en el repositorio un `CONTRIBUTING.md`, en ese archivo puedes encontrar directrices sobre cómo contribuir y en qué.
+Every idea has a different organization but GitHub has a foundation that is that I'm going to comment, **most projects are based on these guidelines**
 
-* Consulta los **issues del repositorio**, es una sección en la que el creador de la idea debe de haber dejado tareas pendientes. Como ejemplo te mostramos los issues de el repositorio oficial de Node.JS:
+* We have recommended the creators of ideas to stop the repository a 'CONTRIBUTING.md,that file can find guidelines on how to contribute and how.
+
+* See the **repository issues**, it is a section in which the originator of the idea must have left unfinished tasks. As an example we show you the issues of the official repository Node.JS:
 
 ![](../../src/img/6.png)
 
-Recuerda que el proyecto puede organizarse de muchas maneras, por ejemplo usando la nueva función de Proyectos de GitHub(algo así como un Trello in-app), nosotros damos las directrices pero los creadores eligen que hacer o no con su espacio. Contacta con ellos para empezar a colaborar si te encuentra algo más confuso. Si sigues experimentando problemas en este sentido no dudes en [contactarnos](#).
+Remember that the project can be organized in many ways, for example using the new function GitHub Project (something like a Trello in-app), we give guidelines but the creators choose or not to do with your space. Contact them to start working if you find something more confusing. If you are still experiencing problems in this regard do not hesitate to [contact](#).
+

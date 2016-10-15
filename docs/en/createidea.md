@@ -1,47 +1,48 @@
-# Crear una idea: La máquina que mueve Better Code
+# Create an idea: The machine moves Better Code
 
-Nos congratula ver que te has decidido por crear una idea en Better Code :smile:, gracias a ti la comunidad irá creciendo poco a poco.
+We are pleased to see that you have decided to create an idea in Better Code :smile:, thank you the community will grow gradually.
 
-En esta guía vamos a llevarte paso a paso por el proceso de crear una idea así como que estás haciendo en cada acción:
+In this guide we will take you step by step through the process of creating an idea and you're doing in each action:
 
-## Rellenando el formulario para crear una idea
+## Fill in the form to create an idea
 
-Para acceder al formulario que te permitirá crear una idea solo tienes que posicionarte en cualquier vista de las que hemos estado comentando antes y hacer click en el botón situado en la esquina inferior derecha:
+To access the form that lets you create an idea just have to position yourself in any view which we have been discussing before and click on the button at the bottom right corner:
 
 ![]()
 
-Una vez que estés en la vista de creación de ideas rellena este lindo formulario:
+Once you're in the view of creating ideas fill this cute form:
 
 ![](../../src/img/8.png)
 
-Te explico la totalidad de los campos, por si tienes algún problema:
+I explain all the fields, if you have any problems:
 
-* **Nombre:** El nombre de tu idea. Por ejemplo, GitHub.
+* **Name:** The name of your idea. For example, GitHub.
 
-* **Lema:** La frase que identificará a tu aplicación. Esta irá después del título en algunas vistas(Tal que así: **GitHub: How People Build Software**). Por ejemplo, How People Build Software.
+* **Motto:** The phrase that identifies your application. This will go after the title in some views (like this: **GitHub: How People Build Software**). For example, How People Build Software.
 
-* **Descripción:** Indica detalles sobre la aplicación, te recomendamos que también añadas algunos perfiles técnicos de los colaboradores para llegar a el profesional correcto. Por ejemplo: Imagina Git en la nube. Es lo que queremos hacer. Necesitamos principalmente desarrolladores en Ruby aunque si estás interesado en unirte el único requerimiento son las ganas, ¡Bienvenido!
+* **Description:** Indicates details on the application, we recommend that you also add some technical profiles of employees to reach the correct professional. For example: Imagine Git in the cloud. It's what we do. Ruby developers need mainly though if you are interested in joining the only requirement is the desire, welcome!
 
-* **Thumbnail:** La imagen de tu aplicación, esta aparecerá en todas las vistas así que usa una que sea agradable a la vista y que muestre algo de nuestra aplicación.
+* **Thumbnail:** The image of your application, it appears in all views so use one that is pleasing to the eye and show some of our application.
 
-* **Etiqueta:** Selecciona entre una de las listadas, nos gusta organizar bien todas las ideas para poder construir nuevas funciones como pueden ser la búsqueda por lenguajes.
+* **Tag:** Select from one of the listed, we like to organize well all ideas to build new features such as search by languages.
 
-## ¿Qué implica haber creado una idea? Siguientes pasos
+## What is involved in creating an idea? next steps
 
-Una vez que hayas creado una idea debes de tener en cuenta lo que has creado:
+Once you've created an idea you should consider what you've created:
 
-* Un espacio en Better Code: En el que colaboradores podrán unirse a tu idea.
+* A space Better Code: In which employees can join your idea.
 
-* Un repositorio en GitHub: localizado en la organización `BetterCodeHQ`, la cual eres parte desde que te registarte. Nosotros ya te hemos añadido una licencia MIT. Te recomendamos que tu añadas lo siguiente:
+* A repository on GitHub: located in the organization `BetterCodeHQ`, which are part since you registarte. We already you've added a MIT license. We recommend that you add the following:
 
-  * Un **CONTRIBUTING.md** en el que cuentes las directrices a seguir para la gente que se una al proyecto.
+  * A **CONTRIBUTING.md** in which count guidelines to follow for people to join the project.
 
-  * **Algunos issues** en los que añadas algunas tareas que hay que hacer en el proyecto.
+  * **Some issues** in which you add some tasks to do in the project.
 
-  * Algunos commits en los que ya hayas creado tu la base del proyecto.
+  * Some Commits where you have already created your project basis.
 
-## Preguntas frecuentes a la hora de crear una idea
+## Frequently asked questions when creating an idea
 
-> **El tag que identifica a mi proyecto no está en la lista, ¿Qué puedo hacer?**
+> **The tag that identifies my project is not listed, what can I do?**
 
->En este momento tenemos muy pocos tags ya que venimos de una beta privada. Si el tag que buscas no está [contáctanos](#) y nosotros encantados lo añadimos.
+> Right now we have very few tags because we come from a private beta. If the tag you are looking for is not [contact us](#) and we are delighted we add.
+

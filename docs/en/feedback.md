@@ -1,21 +1,22 @@
-# Enviar bugs, opiniones y contactar a soporte
+# Send bugs, reviews and contact support
 
-Puedes contactar con nosotros en algunos de estos casos:
+You can contact us in some of these cases:
 
-* Si estás experimentando un bug en la aplicación :fire: :running:
-* Si algo no funciona como debería :disappointed:
-* Si crees que hay un bug de seguridad o algo que no esta bien protegido :unlock:
-* Para darnos tu opinión(nuevos features, mejoras en elementos ya existentes...) :raised_hands:
-* Si tienes algún problema personal(Amor no correspondido, hijo no deseado, Despido improcedente...) ¡Estamos aquí para todo! :shit:
+* If you are experiencing a bug in the application: fire :running:
+* If something is not working as it should :disappointed:
+* If you think there is a security bug or something that is not well protected :unlock:
+* To give your opinion (new features, improvements to existing elements ...) :raised_hands:
+* If you have any personal problems (love unrequited, unwanted child, Unfair dismissal ...) We are here for all! :shit:
 
-Depende de el problema de la lista de arriba(sabemos que no todo se puede decir por el mismo medio) ponemos a tu disposición diferentes medios, tú usa el que quieras. Nosotros nos las apañamos para atenderlos todos e intentar contestarte lo más rapido posible.
+It depends on the problem from the list above (we know that not everything can be said by the same means) we offer you different means, you use the one you want. We did manage to attend to them all and try to answer as quickly as possible.
 
-## Métodos de contacto(Lista Completa)
+## Contact Methods (Full List)
 
-> Iremos añadiendo más según demanda, si necestas un método en específicos usa uno de estos para contárnoslo :grinning:
+> We will be adding more on demand, if you necestas a method specific use one of these to tell us:grinning:
 
-**Email :email:** >> [m@miguhruiz.xyz](mailto:m@miguhruiz.xyz)
+**Email:email:** >> [m@miguhruiz.xyz](mailto: m@miguhruiz.xyz)
 
 **Facebook :two_men_holding_hands:** >> [@BetterCodeHQ](https://facebook.com/BetterCodeHQ)
 
-**Twitter :bird:** >> [@BetterCodeHQ](https://twitter.com/BetterCodeHQ)
+**Twitter:bird:** >> [@BetterCodeHQ](https://twitter.com/BetterCodeHQ)
+

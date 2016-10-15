@@ -1,23 +1,24 @@
-# Un pequeño tour por Better Code: Descubre todas las secciones de la aplicación.
+# A small tour by Better Code: Discover all sections of the application.
 
-## Sección de proyectos: El corazón de la aplicación.
+## Section project: The heart of the application.
 
-Una vez que hayas iniciado sesión en la aplicación te encontrarás con la sección de proyectos. En esta puedes ver todas las ideas que la gente hayan creado y acceder a alguna de ellas, lo veremos en la siguiente sección.
+Once you've logged into the application you will meet the project section. In this you can see all the ideas that people have created and access any of them, we will see in the next section.
 
 ![](../../src/img/1.png)
 
 ---
 
-## Vista de proyecto: Estás a un paso de empezar a colaborar.
+## Project View: You're just one step to start working.
 
-Una vez que hayas hecho click en algún proyecto verás detalles sobre este(título, etiqueta, descripción, colaboradores...) e incluso **el botón de la magia** que te convertirá en un colaborador:
+Once you've clicked on a project you will see details on this (title, label, description, collaborators ...) and **even the button magic** you become a partner:
 
 ![](../../src/img/2.png)
 
 ---
 
-## Vista de usuario: Aprende más de la comunidad y mira que están haciendo ellos.
+## User view: Learn more about the community and see what they are doing.
 
-Durante estas vistas anteriores, habrás visto que la aplicación te enseña quien creó el proyecto así como un enlace a su perfil(el tuyo también lo tienes, solo tienes que hacer click en tu nombre en la barra de arriba). En los perfiles puedes ver algo más de ellos y saber que ideas han creado:
+During these earlier views, you will have seen that the application teaches you who created the project as well as a link to your profile (yours so you only have to click on your name in the top bar). In the profiles you can see more of them and know that ideas have created:
 
 ![](../../src/img/3.png)
+

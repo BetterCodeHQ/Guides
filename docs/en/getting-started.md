@@ -1,39 +1,40 @@
-# Empezando con Better Code
+# Starting with Better Code
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedlist:0 -->
 
-- [Empezando con Better Code](#empezando-con-better-code)
-	- [¿Qué es Better Code?](#qu-es-better-code)
-	- [¿Cual es el propósito de Better Code?](#cual-es-el-propsito-de-better-code)
-	- [¡Me encantó la idea! ¿Cómo puedo ser parte?](#me-encant-la-idea-cmo-puedo-ser-parte)
+- [Beginning with Better Code] (# start-with-better-code)
+- [What is Better Code?] (# What-is-better-code)
+- [What is the purpose of Better Code?] (# What's-the-purpose-of-better-code)
+- [I loved the idea! How I can be a part?] (# I-encant-la-thought-how-can-be-part)
 
 <!-- /TOC -->
 
-## ¿Qué es Better Code?
+## What is Better Code?
 
-Better Code está enfocado a dos tipos de usuarios:
+Better Code is focused on two types of users:
 
-* **Usuarios con ideas:** Si tienes una idea(una aplicación movil, web, el nuevo Facebook...) publicala en nuestra plataforma y comienza a trabajar en ella gracias a nustra completa integración con GitHub. Recibirás usuarios de la comunidad que se unirán al proyecto y que harán que puedas finalmente cumplir tus metas. Todos juntos, en comunidad.
+* Users **ideas:** If you have an idea (a mobile application, web, the new Facebook ...) post on our platform and start working on it thanks to nustra full integration with GitHub. You will receive community users that will join the project and will finally can meet your goals. All together, in community.
 
-* **Usuarios sin ideas pero con ganas de colaborar:** ¡También es tu espacio! ¡Queremos usuarios como tú! Únete a cualquier idea existente y comienza a trabajar con ellos.
+* **Users of ideas but eager to collaborate:** It's your space! We want users like you! Join any existing idea and start working with them.
 
-¿Te quedó un poco más claro el fin de la aplicación? ¡Espero que sí! :grinning:
-
----
-
-## ¿Cual es el propósito de Better Code?
-
-La idea de todo esto es que crees y colabores en proyectos. Liberarán su creatividad, aprenderán a trabajar en equipo y mejorarán su marca personal con proyectos que el día de mañana pueden servir a millones de usuarios. Y todo esto respaldado por una comunidad de desarrolladores y por la aplicación. ¿Te apetece ayudar a otras personas para ser un mejor profesional? ¿Te falta X profesional para tu idea? Estás en el sitio adecuado.
-
-¿Perteneces a un perfil diferente a todo lo que te hemos contado? [Contáctanos y envíame algo de feedback para poder orientar la aplicación para tu sector también. **Me encanta escuchar ideas nuevas**](mailto:m@miguhruiz.xyz)
+Have you got a little clearer to the application? Hope so! :grinning:
 
 ---
 
-## ¡Me encantó la idea! ¿Cómo puedo ser parte?
+## What is the purpose of Better Code?
 
-Actualmente estamos orgullosos de decirte que ya estamos en **beta pública**, puedes registrarte usando el botón que ves más abajo, es completamente gratis:
+The idea of ​​this is to create and collaborate on projects. They released their creativity, learn to work together and improve their personal brand with projects that tomorrow can serve millions of users. And all this supported by a community of developers and application. Would you like to help others to be a better professional? Are you missing X professional for your idea? You're in the right place.
 
-<a href="https://bettercode.pw/?utm_source=Github&utm_medium=BetterCodeGuides"
-style="display:block;margin:0 auto;text-align:center;height:48px;width:253px;background:#22354C;text-decoration:none;color:white;font-family=Arial;font-size:18px;padding-top:.5em;font-weight:bold;">
-Regístrate Ahora
+Do you belong to a different profile to everything we've told you? [Contact us and send me some feedback to guide implementation for your industry as well. **I love hearing new ideas**](mailto: m@miguhruiz.xyz)
+
+---
+
+## I loved the idea! How I can be a part?
+
+We are now proud to say that we are in **public beta**, you can register using the button you see below, it is completely free:
+
+<a href = "https://bettercode.pw/?utm_source=Github&utm_medium=BetterCodeGuides"
+style = "display: block; margin: 0 auto; text-align: center; height: 48px; width: 253px; background: # 22354C; text-decoration: none; color: white; font-family = Arial; font-size : 18px; padding-top: .5em; font-weight: bold; ">
+Register now
 </a>
+
