@@ -1,15 +1,16 @@
-# Cómo Better Code trabaja internamente con GitHub
+# How to Better Code works internally with GitHub
 
-Como ya te habrás dado cuenta al revisar las demás guías Better Code y Github son muy buenos amigos y están continuamente comunicándose. Hemos querido dedicar esta guía a contarte alguna de las cosas que son posibles gracias a esta amistad.
+As you may have noticed when reviewing other Better Code and Github guides are very good friends and are constantly communicating. We wanted to dedicate this guide to tell you some of the things that are possible thanks to this friendship.
 
-## Usuarios: Perfiles, Sesiones, Gestión Interna...
+## Users: Profiles, Sessions, Internal Management ...
 
-Como ya te habrás dado cuenta usamos el OAuth de Github, esto nos permite hacer Better Code un espacio más amigable para desarrolladores. Una de las características más relacionadas a esto visible en la aplicación es la invitación instantánea a la organización, en la que podrás empezar a colaborar en las ideas que quieras. **¿Aún no eres parte de la organización de Better Code en GitHub? ¡Revisa tu email, debe de haber una invitación allí!**
+As you may have already noticed we use the OAuth Github, this allows us to Better Code developers a more friendly space. One of the most related to this visible in the application features is the instant invitation to the organization, which can start collaborating on ideas you want. **Not yet part of the organization Better Code on GitHub? Go check your email, there must be an invitation there!**
 
-## Ideas: Repositorios, Añadir Colaboradores, Listar Colaboradores...
+## Ideas: Repositories, Add Partners, Partners List ...
 
-Todo lo que hagas en una idea en Better Code(o prácticamente todo) está comunicado con GitHub, por ejemplo cuando creas una idea se crea un repositorio para trabajar... Esto nos permite agilizar el desarrollo de los colaboradores y centrar todos los proyectos en un solo sitio.
+Everything you do on an idea in Better Code (or almost all) is connected to GitHub, for example when creating an idea repository is created to work ... This allows us to speed up the development of employees and focus all projects one place.
 
-Esas son las dos principales cosas que hacemos con nuestro amigo GitHub, te hemos dejado un pequeño esquema que acabo de bocetar en el que puedes ver el workflow entre Github y Better Code.
+Those are the two main things we do with our friend GitHub, you have left a small sketch outline just where you can see the workflow between Github and Better Code.
 
 ![](../../src/img/7.JPG)
+
